@@ -1,0 +1,7 @@
+{
+  "scene_size": "small",
+  "map_distribution": "sorting_center",
+  "num_agvs": 10,
+  "num_tasks": 500,
+  "task_distribution": "uniform"
+}
